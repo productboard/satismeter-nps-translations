@@ -1,0 +1,20 @@
+{
+  "name": "nps-translations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserify": {
+    "transform": [
+      "bulkify"
+    ]
+  },
+  "dependencies": {
+    "bulk-require": "^0.2.1",
+    "bulkify": "^1.1.0"
+  }
+}
