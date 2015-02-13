@@ -1,8 +1,8 @@
 {
     "US": "ci",
     "HOW_LIKELY": "Con quale probabilità %s raccomanderesti ai tuoi amici e colleghi?",
-    "NOT_AT_ALL": "Per niente probabile",
-    "EXTREMLY": "Molto probabile",
+    "UNLIKELY": "Per niente probabile",
+    "LIKELY": "Molto probabile",
     "FOLLOWUP": "Cosa possiamo fare per migliorarci?",
     "DISMISS": "Chiudi",
     "SUBMIT": "Invia feedback",

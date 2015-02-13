@@ -1,8 +1,8 @@
 {
     "US": "nos",
     "HOW_LIKELY": "Qual é a probabilidade de você %s recomendar a seus amigos e colegas?",
-    "NOT_AT_ALL": "Nem um pouco provável",
-    "EXTREMLY": "Extremamente provável",
+    "UNLIKELY": "Nem um pouco provável",
+    "LIKELY": "Extremamente provável",
     "FOLLOWUP": "O que poderíamos fazer para melhorar?",
     "DISMISS": "Ignorar",
     "SUBMIT": "Enviar feedback",

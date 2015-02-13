@@ -1,8 +1,8 @@
 {
     "US": "nos",
     "HOW_LIKELY": "¿Usted recomendaría a %s a sus amigos o colegas?",
-    "NOT_AT_ALL": "No, para nada.",
-    "EXTREMLY": "Si, claro.",
+    "UNLIKELY": "No, para nada.",
+    "LIKELY": "Si, claro.",
     "FOLLOWUP": "¿Qué podemos hacer para mejorar?",
     "DISMISS": "Descartar",
     "SUBMIT": "Enviar un comentario",

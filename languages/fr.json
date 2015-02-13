@@ -1,8 +1,8 @@
 {
     "US": "",
     "HOW_LIKELY": "Recommanderiez-vous %s à vos amis et collègues ?",
-    "NOT_AT_ALL": "Pas du tout",
-    "EXTREMLY": "Oui, tout à fait",
+    "UNLIKELY": "Pas du tout",
+    "LIKELY": "Oui, tout à fait",
     "FOLLOWUP": "Quelles améliorations pourrions-nous faire ?",
     "DISMISS": "Décliner",
     "SUBMIT": "Envoyer un commentaire",

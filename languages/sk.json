@@ -1,8 +1,8 @@
 {
     "US": "nás",
     "HOW_LIKELY": "Doporučili by ste %s známym alebo kolegom?",
-    "NOT_AT_ALL": "Určite nie",
-    "EXTREMLY": "Určite áno",
+    "UNLIKELY": "Určite nie",
+    "LIKELY": "Určite áno",
     "FOLLOWUP": "Čo by sme mohli zlepšiť?",
     "DISMISS": "Zavrieť",
     "SUBMIT": "Odoslať",
