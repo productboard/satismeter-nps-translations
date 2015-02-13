@@ -1,11 +1,11 @@
 {
     "US": "uns",
-    "HOW_LIKELY": "Wie wahrscheinlich ist es, dass Sie %s Ihren Freunden und Kollegen empfehlen?",
-    "NOT_AT_ALL": "Sehr unwahrscheinlich",
+    "HOW_LIKELY": "Wie wahrscheinlich ist es, dass Sie %s einem Freund oder Kollegen weiterempfehlen?",
+    "NOT_AT_ALL": "Gar nicht wahrscheinlich",
     "EXTREMLY": "Sehr wahrscheinlich",
     "FOLLOWUP": "Was können wir tun, um uns zu verbessern?",
     "DISMISS": "Ablehnen",
-    "SUBMIT": "Feedback senden",
+    "SUBMIT": "Feedback schicken",
     "THANKS": "Danke für Ihr Feedback!",
     "FILLED": "Sie haben die Umfrage bereits ausgefüllt."
 }

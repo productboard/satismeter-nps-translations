@@ -1,11 +1,11 @@
 {
     "US": "",
-    "HOW_LIKELY": "Nous recommanderiez-vous à vos amis et vos collègues ?",
-    "NOT_AT_ALL": "Probablement pas",
-    "EXTREMLY": "Très probablement",
+    "HOW_LIKELY": "Recommanderiez-vous %s à vos amis et collègues ?",
+    "NOT_AT_ALL": "Pas du tout",
+    "EXTREMLY": "Oui, tout à fait",
     "FOLLOWUP": "Quelles améliorations pourrions-nous faire ?",
     "DISMISS": "Décliner",
-    "SUBMIT": "Soumettre l'avis",
+    "SUBMIT": "Envoyer un commentaire",
     "THANKS": "Merci d'avoir partagé votre avis !",
     "FILLED": "Vous avez déjà complété cette enquête."
 }
