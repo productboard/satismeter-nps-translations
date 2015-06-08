@@ -1,6 +1,7 @@
 {
     "US": "nos",
-    "HOW_LIKELY": "Qual é a probabilidade de você %s recomendar a seus amigos e colegas?",
+    "HOW_LIKELY_US": "Qual é a probabilidade de você nos recomendar a seus amigos e colegas?",
+    "HOW_LIKELY": "Qual é a probabilidade de você recomendar %s a seus amigos e colegas?",
     "UNLIKELY": "Nem um pouco provável",
     "LIKELY": "Extremamente provável",
     "THANKS_IMPROVE": "Obrigado pelo seu feedback. O que poderíamos fazer para melhorar?",
