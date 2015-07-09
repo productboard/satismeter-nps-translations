@@ -1,5 +1,6 @@
 {
     "US": "Bizi",
+    "HOW_LIKELY_US": "Bizi arkadaş ve meslektaşlarınıza tavsiye etmeniz ne kadar olası?",
     "HOW_LIKELY": "%s arkadaş ve meslektaşlarınıza tavsiye etmeniz ne kadar olası?",
     "UNLIKELY": "Hiç de olası değil",
     "LIKELY": "Yüksek olasıklıkla",

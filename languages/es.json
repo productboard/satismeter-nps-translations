@@ -1,5 +1,6 @@
 {
     "US": "nos",
+    "HOW_LIKELY_US": "¿Usted recomendaría a nos a sus amigos o colegas?",
     "HOW_LIKELY": "¿Usted recomendaría a %s a sus amigos o colegas?",
     "UNLIKELY": "No, para nada.",
     "LIKELY": "Si, claro.",

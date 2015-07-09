@@ -1,5 +1,6 @@
 {
     "US": "uns",
+    "HOW_LIKELY_US": "Wie wahrscheinlich ist es, dass Sie uns einem Freund oder Kollegen weiterempfehlen?",
     "HOW_LIKELY": "Wie wahrscheinlich ist es, dass Sie %s einem Freund oder Kollegen weiterempfehlen?",
     "UNLIKELY": "Gar nicht wahrscheinlich",
     "LIKELY": "Sehr wahrscheinlich",

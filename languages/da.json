@@ -1,5 +1,6 @@
 {
     "US": "os",
+    "HOW_LIKELY_US": "Hvor sandsynsynligt er det at du vil anbefale os til dine venner og kollegaer?",
     "HOW_LIKELY": "Hvor sandsynsynligt er det at du vil anbefale %s til dine venner og kollegaer?",
     "UNLIKELY": "Usandsynligt",
     "LIKELY": "Meget sandsynligt",
