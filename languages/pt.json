@@ -1,0 +1,12 @@
+{
+    "US": "nos",
+    "HOW_LIKELY_US": "Qual é a probabilidade de nos recomendar aos seus amigos e colegas?",
+    "HOW_LIKELY": "Qual é a probabilidade de recomendar a %s aos seus amigos e colegas?",
+    "UNLIKELY": "Nada provável",
+    "LIKELY": "Extremamente provável",
+    "FOLLOWUP": "O que é que poderíamos fazer para melhorar?",
+    "DISMISS": "Encerrar",
+    "SUBMIT": "Enviar a Opinião",
+    "THANKS": "Obrigado pela sua opinião!",
+    "FILLED": "Já preencheu este inquérito."
+}
