@@ -1,0 +1,12 @@
+{
+  "US": "mes",
+  "HOW_LIKELY_US": "Kokia tikimybė, kad jūs parekomenduosite mus savo draugams ir kolegoms?",
+  "HOW_LIKELY": "Kokia tikimybė, kad jūs parekomenduosite %s savo draugams ir kolegoms?",
+  "UNLIKELY": "Tikriausia ne",
+  "LIKELY": "Tikriausia taip",
+  "FOLLOWUP": "Ką mes galėtume patobulinti?",
+  "DISMISS": "Uždaryti",
+  "SUBMIT": "Siųsti atsiliepimą",
+  "THANKS": "Dėkojame už jūsų atsiliepimą!",
+  "FILLED": "Jūs jau užpildėte šią apklausą."
+}
