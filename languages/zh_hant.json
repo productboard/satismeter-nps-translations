@@ -1,0 +1,12 @@
+{
+    "US": "us",
+    "HOW_LIKELY_US": "您是否可能向朋友與同事推薦 %s？",
+    "HOW_LIKELY": "您是否可能向朋友與同事推薦我們？",
+    "UNLIKELY": "完全不可能",
+    "LIKELY": "非常可能",
+    "FOLLOWUP": "我們有哪裡尚待改進？",
+    "DISMISS": "關閉",
+    "SUBMIT": "提交反饋意見",
+    "THANKS": "謝謝您提供意見！",
+    "FILLED": "您已完成問卷調查。"
+}
