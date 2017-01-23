@@ -1,7 +1,7 @@
 {
     "US": "nás",
     "HOW_LIKELY_US": "Doporučili by ste nás známym alebo kolegom?",
-    "HOW_LIKELY": "Doporučili by ste %s známym alebo kolegom?",
+    "HOW_LIKELY": "Doporučili by ste {{service_name}} známym alebo kolegom?",
     "UNLIKELY": "Určite nie",
     "LIKELY": "Určite áno",
     "FOLLOWUP": "Čo by sme mohli zlepšiť?",

@@ -1,7 +1,7 @@
 {
     "US": "oss",
     "HOW_LIKELY_US": "Hur troligt är det att du skulle rekommendera oss till dina vänner och kollegor?",
-    "HOW_LIKELY": "Hur troligt är det att du skulle rekommendera %s till dina vänner och kollegor?",
+    "HOW_LIKELY": "Hur troligt är det att du skulle rekommendera {{service_name}} till dina vänner och kollegor?",
     "UNLIKELY": "Inte alls troligt",
     "LIKELY": "Högst troligt",
     "FOLLOWUP": "Hur kan vi förbättra oss?",

@@ -1,7 +1,7 @@
 {
     "US": "nas",
     "HOW_LIKELY_US": "Z jakim prawdopodobieństwem polecisz nas przyjaciołom lub znajomym?",
-    "HOW_LIKELY": "Z jakim prawdopodobieństwem polecisz %s przyjaciołom lub znajomym?",
+    "HOW_LIKELY": "Z jakim prawdopodobieństwem polecisz {{service_name}} przyjaciołom lub znajomym?",
     "UNLIKELY": "Niemożliwe",
     "LIKELY": "Bardzo prawdopodobne",
     "FOLLOWUP": "Co możemy zrobić, aby się udoskonalić?",

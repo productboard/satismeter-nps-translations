@@ -1,6 +1,6 @@
 {
     "HOW_LIKELY_US": "Apakah Anda mau untuk merekomendasikan kami ke teman-teman dan rekan sekerja Anda?",
-    "HOW_LIKELY": "Apakah Anda ingin merekomendasikan %s ke teman-teman dan rekan sekerja Anda?",
+    "HOW_LIKELY": "Apakah Anda ingin merekomendasikan {{service_name}} ke teman-teman dan rekan sekerja Anda?",
     "UNLIKELY": "Tidak sama sekali",
     "LIKELY": "Sangat merekomendasikan",
     "FOLLOWUP": "Apa yang bisa kami tingkatkan?",

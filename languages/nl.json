@@ -1,7 +1,7 @@
 {
     "US": "ons",
     "HOW_LIKELY_US": "Hoe waarschijnlijk is het dat je ons aanraadt aan vrienden of collega’s?",
-    "HOW_LIKELY": "Hoe waarschijnlijk is het dat je %s aanraadt aan vrienden of collega’s?",
+    "HOW_LIKELY": "Hoe waarschijnlijk is het dat je {{service_name}} aanraadt aan vrienden of collega’s?",
     "UNLIKELY": "Zeer onwaarschijnlijk",
     "LIKELY": "Zeer waarschijnlijk",
     "FOLLOWUP": "Wat kunnen we verbeteren?",

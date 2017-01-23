@@ -1,6 +1,6 @@
 {
     "HOW_LIKELY_US": "您是否可能向朋友與同事推薦我們？",
-    "HOW_LIKELY": "您是否可能向朋友與同事推薦 %s？",
+    "HOW_LIKELY": "您是否可能向朋友與同事推薦 {{service_name}}？",
     "UNLIKELY": "完全不可能",
     "LIKELY": "非常可能",
     "FOLLOWUP": "我們有哪裡尚待改進？",

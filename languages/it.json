@@ -1,7 +1,7 @@
 {
     "US": "ci",
     "HOW_LIKELY_US": "Con quale probabilità ci raccomanderesti ai tuoi amici e colleghi?",
-    "HOW_LIKELY": "Con quale probabilità %s raccomanderesti ai tuoi amici e colleghi?",
+    "HOW_LIKELY": "Con quale probabilità {{service_name}} raccomanderesti ai tuoi amici e colleghi?",
     "UNLIKELY": "Per niente probabile",
     "LIKELY": "Molto probabile",
     "FOLLOWUP": "Cosa possiamo fare per migliorarci?",
