@@ -8,5 +8,8 @@
     "DISMISS": "Wyjdź",
     "SUBMIT": "Prześlij opinię",
     "THANKS": "Dziękujemy za wyrażenie opinii!",
-    "FILLED": "Już wypełniłeś/-aś tę ankietę."
+    "FILLED": "Już wypełniłeś/-aś tę ankietę.",
+    "SUBJECT": "Twoja opinia ma znaczenie!",
+    "INTRO": "Witaj,\n\nbylibyśmy bardzo wdzięczni, gdyby udało Ci się poświęcić 10 sekund na wystawienie nam oceny.",
+    "OUTRO": "Dziękujemy za poświęcony czas i Twoją opinię. Wykorzystamy te informacje do ulepszenia naszych usług!"
 }

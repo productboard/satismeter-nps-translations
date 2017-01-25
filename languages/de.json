@@ -8,5 +8,8 @@
     "DISMISS": "Ablehnen",
     "SUBMIT": "Feedback schicken",
     "THANKS": "Danke für Ihr Feedback!",
-    "FILLED": "Sie haben die Umfrage bereits ausgefüllt."
+    "FILLED": "Sie haben die Umfrage bereits ausgefüllt.",
+    "SUBJECT": "Ihre Meinung zählt!",
+    "INTRO": "Hallo zusammen,\n\nEs würde uns wirklich sehr weiterhelfen, wenn Sie sich 10 Sekunden Zeit nehmen könnten, um Ihre Erfahrungen mit uns zu bewerten.",
+    "OUTRO": "Vielen Dank, dass Sie sich die Zeit genommen haben, uns zu bewerten. Wir werden diese Informationen verwenden, um unsere Dienste zu verbessern!"
 }

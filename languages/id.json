@@ -7,5 +7,8 @@
     "DISMISS": "Tutup",
     "SUBMIT": "Kirim Saran",
     "THANKS": "Terima kasih untuk saran Anda",
-    "FILLED": "Anda sudah mengisi survey."
+    "FILLED": "Anda sudah mengisi survey.",
+    "SUBJECT": "Opini Anda sangat berarti!",
+    "INTRO": "Hai,\n\nKami akan sangat terbantu jika Anda bersedia meluangkan waktu 10 detik untuk menilai pengalaman Anda bersama kami.",
+    "OUTRO": "Terima kasih karena telah meluangkan waktu untuk memberi tahu kami pendapat Anda. Kami akan menggunakan informasi ini untuk membantu meningkatkan layanan kami!"
 }

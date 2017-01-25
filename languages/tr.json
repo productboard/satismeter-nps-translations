@@ -8,5 +8,8 @@
     "DISMISS": "Artık Anımsatma",
     "SUBMIT": "Geribildirim Gönderin",
     "THANKS": "Geri bildiriniz için teşekkürler!",
-    "FILLED": "Anketi zaten doldurmuşsunuz."
+    "FILLED": "Anketi zaten doldurmuşsunuz.",
+    "SUBJECT": "Düşüncen önemli!",
+    "INTRO": "Sen oradaki,\n\nBizimle olan tecrübeni değerlendirmek için 10 saniyeni ayırabilirsen bize gerçekten çok yardım etmiş olursun.",
+    "OUTRO": "Ne düşündüğünü bize bildirmeye zaman ayırdığın için teşekkür ederiz. Hizmetlerimizi geliştirmek için bu bilgiyi kullanacağız!"
 }

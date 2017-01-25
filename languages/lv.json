@@ -7,5 +7,8 @@
     "DISMISS": "Aizvērt",
     "SUBMIT": "Iesniegt",
     "THANKS": "Paldies par Jūsu atbildēm!",
-    "FILLED": "Jūs jau aizpildījāt aptauju"
+    "FILLED": "Jūs jau aizpildījāt aptauju",
+    "SUBJECT": "Tavs viedoklis ir svarīgs!",
+    "INTRO": "Sveiki,\n\nMums tas ļoti palīdzētu, ja Tu atvēlētu 10 sekundes no sava laika un novērtētu kopā ar mums gūto pieredzi.",
+    "OUTRO": "Paldies, ka veltīji laiku un ļāvi mums uzzināt savu viedokli. Mēs izmantosim šo informāciju, lai palīdzētu uzlabot mūsu pakalpojumus!"
 }

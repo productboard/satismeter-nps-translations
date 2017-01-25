@@ -8,5 +8,8 @@
     "DISMISS": "Zavrieť",
     "SUBMIT": "Odoslať",
     "THANKS": "Ďakujeme za odpoveď.",
-    "FILLED": "Dotazník ste už vyplnili."
+    "FILLED": "Dotazník ste už vyplnili.",
+    "SUBJECT": "Na Vašom názore záleží",
+    "INTRO": "Dobrý deň,\n\nveľmi by nám pomohlo, keby ste ohodnotili Vašu skúsenosť s nami. Zaberie to 10 sekúnd.",
+    "OUTRO": "Ďakujeme veľmi za Váš čas. Spätnú väzbu využijeme na zlepšenie našich služieb."
 }

@@ -7,5 +7,8 @@
     "DISMISS": "Lukk",
     "SUBMIT": "Send tilbakemelding",
     "THANKS": "Takk for tilbakemeldingen din!",
-    "FILLED": "Du har allerede svart på undersøkelsen."
+    "FILLED": "Du har allerede svart på undersøkelsen.",
+    "SUBJECT": "Meningen din teller!",
+    "INTRO": "Heisann,\n\ndet ville virkelig hjulpet oss om du kunne brukt ti sekunder av tiden din til å vurdere din opplevelse med oss.",
+    "OUTRO": "Takk for at du tok deg tid til å fortelle oss hva du mener. Vi vil bruke denne informasjonen til å hjelpe med å forbedre tjenestene våre!"
 }

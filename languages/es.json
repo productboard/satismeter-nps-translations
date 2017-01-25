@@ -8,5 +8,8 @@
     "DISMISS": "Descartar",
     "SUBMIT": "Enviar un comentario",
     "THANKS": "¡Gracias por tus comentarios!",
-    "FILLED": "Ya ha respondido a la encuesta."
+    "FILLED": "Ya ha respondido a la encuesta.",
+    "SUBJECT": "¡Su opinión cuenta!",
+    "INTRO": "Hola,\n\nRealmente nos sería de gran ayuda que gastase 10 segundos de su tiempo para calificar su experiencia con nosotros.",
+    "OUTRO": "Gracias por su tiempo y  por permitirnos saber lo que piensa. ¡Utilizaremos esta información para ayudar a mejorar nuestros servicios!"
 }

@@ -8,5 +8,8 @@
     "DISMISS": "Décliner",
     "SUBMIT": "Envoyer un commentaire",
     "THANKS": "Merci d'avoir partagé votre avis !",
-    "FILLED": "Vous avez déjà complété cette enquête."
+    "FILLED": "Vous avez déjà complété cette enquête.",
+    "SUBJECT": "Votre opinion compte !",
+    "INTRO": "Bonjour,\n\nSi vous souhaitez vraiment nous aider, vous pouvez prendre 10 secondes de votre temps pour noter et partager votre expérience avec nous.",
+    "OUTRO": "Merci d'avoir pris le temps de nous faire savoir ce que vous pensez. Nous utiliserons cette informations pour aider à améliorer nos service !"
 }
