@@ -1,0 +1,13 @@
+{
+    "HOW_LIKELY_US": "Ens recomanaries als teus amics o companys?",
+    "HOW_LIKELY": "Recomanaries {{service_name}} als teus amics o companys?",
+    "UNLIKELY": "No, al contrari!",
+    "LIKELY": "Sí, segur que sí!",
+    "FOLLOWUP": "Què podem fer per millorar?",
+    "DISMISS": "Tancar",
+    "SUBMIT": "Enviar Comentari",
+    "THANKS": "Gràcies pel teu comentari!",
+    "SUBJECT": "La teva opinió és important!",
+    "INTRO": "Hola,\n\nEns aniria molt bé si amb 10 segons poguessis valorar la teva experiència amb nosaltres.",
+    "OUTRO": "Gràcies per dir-nos el que penses. Utilitzarem aquesta informació per millorar els nostres serveis!"
+}
