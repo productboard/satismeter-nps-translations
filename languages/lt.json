@@ -1,7 +1,9 @@
 {
   "US": "mes",
-  "HOW_LIKELY_US": "Kokia tikimybė, kad jūs parekomenduosite mus savo draugams ir kolegoms?",
-  "HOW_LIKELY": "Kokia tikimybė, kad jūs parekomenduosite {{service_name}} savo draugams ir kolegoms?",
+  "HOW_LIKELY_US":
+    "Kokia tikimybė, kad jūs parekomenduosite mus savo draugams ir kolegoms?",
+  "HOW_LIKELY":
+    "Kokia tikimybė, kad jūs parekomenduosite {{service_name}} savo draugams ir kolegoms?",
   "UNLIKELY": "Tikriausia ne",
   "LIKELY": "Tikriausia taip",
   "FOLLOWUP": "Ką mes galėtume patobulinti?",
@@ -10,6 +12,9 @@
   "THANKS": "Dėkojame už jūsų atsiliepimą!",
   "FILLED": "Jūs jau užpildėte šią apklausą.",
   "SUBJECT": "Jūsų nuomonė mums svarbi!",
-  "INTRO": "Sveiki,\n\ngal galėtumėte mums padėti ir skyrę 10 sekundžių savo laiko įvertinti, kaip patiko naudotis mūsų paslaugomis.",
-  "OUTRO": "Dėkojame, kad skyrėte laiko ir išsakėte mums savo nuomonę. Panaudosime šią informaciją mūsų paslaugų tobulinimui!"
+  "INTRO":
+    "Sveiki,\n\ngal galėtumėte mums padėti ir skyrę 10 sekundžių savo laiko įvertinti, kaip patiko naudotis mūsų paslaugomis.",
+  "OUTRO":
+    "Dėkojame, kad skyrėte laiko ir išsakėte mums savo nuomonę. Panaudosime šią informaciją mūsų paslaugų tobulinimui!",
+  "CONTINUE": "Pirmyn"
 }

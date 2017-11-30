@@ -1,15 +1,20 @@
 {
-    "US": "Bizi",
-    "HOW_LIKELY_US": "Bizi arkadaş ve meslektaşlarınıza tavsiye etmeniz ne kadar olası?",
-    "HOW_LIKELY": "{{service_name}} arkadaş ve meslektaşlarınıza tavsiye etmeniz ne kadar olası?",
-    "UNLIKELY": "Hiç de olası değil",
-    "LIKELY": "Yüksek olasıklıkla",
-    "FOLLOWUP": "Kendimizi geliştirmek için ne yapabiliriz?",
-    "DISMISS": "Artık Anımsatma",
-    "SUBMIT": "Geribildirim Gönderin",
-    "THANKS": "Geri bildiriniz için teşekkürler!",
-    "FILLED": "Anketi zaten doldurmuşsunuz.",
-    "SUBJECT": "Düşüncen önemli!",
-    "INTRO": "Sen oradaki,\n\nBizimle olan tecrübeni değerlendirmek için 10 saniyeni ayırabilirsen bize gerçekten çok yardım etmiş olursun.",
-    "OUTRO": "Ne düşündüğünü bize bildirmeye zaman ayırdığın için teşekkür ederiz. Hizmetlerimizi geliştirmek için bu bilgiyi kullanacağız!"
+  "US": "Bizi",
+  "HOW_LIKELY_US":
+    "Bizi arkadaş ve meslektaşlarınıza tavsiye etmeniz ne kadar olası?",
+  "HOW_LIKELY":
+    "{{service_name}} arkadaş ve meslektaşlarınıza tavsiye etmeniz ne kadar olası?",
+  "UNLIKELY": "Hiç de olası değil",
+  "LIKELY": "Yüksek olasıklıkla",
+  "FOLLOWUP": "Kendimizi geliştirmek için ne yapabiliriz?",
+  "DISMISS": "Artık Anımsatma",
+  "SUBMIT": "Geribildirim Gönderin",
+  "THANKS": "Geri bildiriniz için teşekkürler!",
+  "FILLED": "Anketi zaten doldurmuşsunuz.",
+  "SUBJECT": "Düşüncen önemli!",
+  "INTRO":
+    "Sen oradaki,\n\nBizimle olan tecrübeni değerlendirmek için 10 saniyeni ayırabilirsen bize gerçekten çok yardım etmiş olursun.",
+  "OUTRO":
+    "Ne düşündüğünü bize bildirmeye zaman ayırdığın için teşekkür ederiz. Hizmetlerimizi geliştirmek için bu bilgiyi kullanacağız!",
+  "CONTINUE": "İleri"
 }

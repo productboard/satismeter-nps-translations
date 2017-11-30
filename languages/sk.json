@@ -1,15 +1,18 @@
 {
-    "US": "nás",
-    "HOW_LIKELY_US": "Doporučili by ste nás známym alebo kolegom?",
-    "HOW_LIKELY": "Doporučili by ste {{service_name}} známym alebo kolegom?",
-    "UNLIKELY": "Určite nie",
-    "LIKELY": "Určite áno",
-    "FOLLOWUP": "Čo by sme mohli zlepšiť?",
-    "DISMISS": "Zavrieť",
-    "SUBMIT": "Odoslať",
-    "THANKS": "Ďakujeme za odpoveď.",
-    "FILLED": "Dotazník ste už vyplnili.",
-    "SUBJECT": "Na Vašom názore záleží",
-    "INTRO": "Dobrý deň,\n\nveľmi by nám pomohlo, keby ste ohodnotili Vašu skúsenosť s nami. Zaberie to 10 sekúnd.",
-    "OUTRO": "Ďakujeme veľmi za Váš čas. Spätnú väzbu využijeme na zlepšenie našich služieb."
+  "US": "nás",
+  "HOW_LIKELY_US": "Doporučili by ste nás známym alebo kolegom?",
+  "HOW_LIKELY": "Doporučili by ste {{service_name}} známym alebo kolegom?",
+  "UNLIKELY": "Určite nie",
+  "LIKELY": "Určite áno",
+  "FOLLOWUP": "Čo by sme mohli zlepšiť?",
+  "DISMISS": "Zavrieť",
+  "SUBMIT": "Odoslať",
+  "THANKS": "Ďakujeme za odpoveď.",
+  "FILLED": "Dotazník ste už vyplnili.",
+  "SUBJECT": "Na Vašom názore záleží",
+  "INTRO":
+    "Dobrý deň,\n\nveľmi by nám pomohlo, keby ste ohodnotili Vašu skúsenosť s nami. Zaberie to 10 sekúnd.",
+  "OUTRO":
+    "Ďakujeme veľmi za Váš čas. Spätnú väzbu využijeme na zlepšenie našich služieb.",
+  "CONTINUE": "Ďalšie"
 }

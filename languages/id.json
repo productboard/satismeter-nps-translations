@@ -1,14 +1,19 @@
 {
-    "HOW_LIKELY_US": "Apakah Anda mau untuk merekomendasikan kami ke teman-teman dan rekan sekerja Anda?",
-    "HOW_LIKELY": "Apakah Anda ingin merekomendasikan {{service_name}} ke teman-teman dan rekan sekerja Anda?",
-    "UNLIKELY": "Tidak sama sekali",
-    "LIKELY": "Sangat merekomendasikan",
-    "FOLLOWUP": "Apa yang bisa kami tingkatkan?",
-    "DISMISS": "Tutup",
-    "SUBMIT": "Kirim Saran",
-    "THANKS": "Terima kasih untuk saran Anda",
-    "FILLED": "Anda sudah mengisi survey.",
-    "SUBJECT": "Opini Anda sangat berarti!",
-    "INTRO": "Hai,\n\nKami akan sangat terbantu jika Anda bersedia meluangkan waktu 10 detik untuk menilai pengalaman Anda bersama kami.",
-    "OUTRO": "Terima kasih karena telah meluangkan waktu untuk memberi tahu kami pendapat Anda. Kami akan menggunakan informasi ini untuk membantu meningkatkan layanan kami!"
+  "HOW_LIKELY_US":
+    "Apakah Anda mau untuk merekomendasikan kami ke teman-teman dan rekan sekerja Anda?",
+  "HOW_LIKELY":
+    "Apakah Anda ingin merekomendasikan {{service_name}} ke teman-teman dan rekan sekerja Anda?",
+  "UNLIKELY": "Tidak sama sekali",
+  "LIKELY": "Sangat merekomendasikan",
+  "FOLLOWUP": "Apa yang bisa kami tingkatkan?",
+  "DISMISS": "Tutup",
+  "SUBMIT": "Kirim Saran",
+  "THANKS": "Terima kasih untuk saran Anda",
+  "FILLED": "Anda sudah mengisi survey.",
+  "SUBJECT": "Opini Anda sangat berarti!",
+  "INTRO":
+    "Hai,\n\nKami akan sangat terbantu jika Anda bersedia meluangkan waktu 10 detik untuk menilai pengalaman Anda bersama kami.",
+  "OUTRO":
+    "Terima kasih karena telah meluangkan waktu untuk memberi tahu kami pendapat Anda. Kami akan menggunakan informasi ini untuk membantu meningkatkan layanan kami!",
+  "CONTINUE": "Berikutnya"
 }

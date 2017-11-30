@@ -8,6 +8,9 @@
   "SUBMIT": "Enviar Comentari",
   "THANKS": "Gràcies pel teu comentari!",
   "SUBJECT": "La teva opinió és important!",
-  "INTRO": "Hola,\n\nEns aniria molt bé si amb 10 segons poguessis valorar la teva experiència amb nosaltres.",
-  "OUTRO": "Gràcies per dir-nos el que penses. Utilitzarem aquesta informació per millorar els nostres serveis!"
+  "INTRO":
+    "Hola,\n\nEns aniria molt bé si amb 10 segons poguessis valorar la teva experiència amb nosaltres.",
+  "OUTRO":
+    "Gràcies per dir-nos el que penses. Utilitzarem aquesta informació per millorar els nostres serveis!",
+  "CONTINUE": "Endavant"
 }

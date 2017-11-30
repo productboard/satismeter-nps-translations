@@ -1,14 +1,19 @@
 {
-    "HOW_LIKELY_US": "Cik liela ir iespējamība, ka Jūs ieteiktu mūsu uzņēmumu saviem draugiem vai kolēģiem?",
-    "HOW_LIKELY": "Cik liela ir iespējamība, ka Jūs ieteiktu {{service_name}} saviem draugiem vai kolēģiem?",
-    "UNLIKELY": "Maz ticams",
-    "LIKELY": "Ļoti ticams",
-    "FOLLOWUP": "Ko mēs varētu uzlabot?",
-    "DISMISS": "Aizvērt",
-    "SUBMIT": "Iesniegt",
-    "THANKS": "Paldies par Jūsu atbildēm!",
-    "FILLED": "Jūs jau aizpildījāt aptauju",
-    "SUBJECT": "Tavs viedoklis ir svarīgs!",
-    "INTRO": "Sveiki,\n\nMums tas ļoti palīdzētu, ja Tu atvēlētu 10 sekundes no sava laika un novērtētu kopā ar mums gūto pieredzi.",
-    "OUTRO": "Paldies, ka veltīji laiku un ļāvi mums uzzināt savu viedokli. Mēs izmantosim šo informāciju, lai palīdzētu uzlabot mūsu pakalpojumus!"
+  "HOW_LIKELY_US":
+    "Cik liela ir iespējamība, ka Jūs ieteiktu mūsu uzņēmumu saviem draugiem vai kolēģiem?",
+  "HOW_LIKELY":
+    "Cik liela ir iespējamība, ka Jūs ieteiktu {{service_name}} saviem draugiem vai kolēģiem?",
+  "UNLIKELY": "Maz ticams",
+  "LIKELY": "Ļoti ticams",
+  "FOLLOWUP": "Ko mēs varētu uzlabot?",
+  "DISMISS": "Aizvērt",
+  "SUBMIT": "Iesniegt",
+  "THANKS": "Paldies par Jūsu atbildēm!",
+  "FILLED": "Jūs jau aizpildījāt aptauju",
+  "SUBJECT": "Tavs viedoklis ir svarīgs!",
+  "INTRO":
+    "Sveiki,\n\nMums tas ļoti palīdzētu, ja Tu atvēlētu 10 sekundes no sava laika un novērtētu kopā ar mums gūto pieredzi.",
+  "OUTRO":
+    "Paldies, ka veltīji laiku un ļāvi mums uzzināt savu viedokli. Mēs izmantosim šo informāciju, lai palīdzētu uzlabot mūsu pakalpojumus!",
+  "CONTINUE": "Nākamais"
 }

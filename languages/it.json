@@ -1,15 +1,19 @@
 {
-    "US": "ci",
-    "HOW_LIKELY_US": "Con quale probabilità ci raccomanderesti ai tuoi amici e colleghi?",
-    "HOW_LIKELY": "Con quale probabilità {{service_name}} raccomanderesti ai tuoi amici e colleghi?",
-    "UNLIKELY": "Per niente probabile",
-    "LIKELY": "Molto probabile",
-    "FOLLOWUP": "Cosa possiamo fare per migliorarci?",
-    "DISMISS": "Chiudi",
-    "SUBMIT": "Invia feedback",
-    "THANKS": "Grazie per il tuo feedback!",
-    "FILLED": "Hai già compilato il sondaggio.",
-    "SUBJECT": "La tua opinione conta!",
-    "INTRO": "Ehi,\n\nci sarebbe davvero di aiuto se potessi impiegare 10 secondi del tuo tempo per valutare la tua esperienza con noi.",
-    "OUTRO": ""
+  "US": "ci",
+  "HOW_LIKELY_US":
+    "Con quale probabilità ci raccomanderesti ai tuoi amici e colleghi?",
+  "HOW_LIKELY":
+    "Con quale probabilità {{service_name}} raccomanderesti ai tuoi amici e colleghi?",
+  "UNLIKELY": "Per niente probabile",
+  "LIKELY": "Molto probabile",
+  "FOLLOWUP": "Cosa possiamo fare per migliorarci?",
+  "DISMISS": "Chiudi",
+  "SUBMIT": "Invia feedback",
+  "THANKS": "Grazie per il tuo feedback!",
+  "FILLED": "Hai già compilato il sondaggio.",
+  "SUBJECT": "La tua opinione conta!",
+  "INTRO":
+    "Ehi,\n\nci sarebbe davvero di aiuto se potessi impiegare 10 secondi del tuo tempo per valutare la tua esperienza con noi.",
+  "OUTRO": "",
+  "CONTINUE": "Avanti"
 }

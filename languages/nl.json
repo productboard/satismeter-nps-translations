@@ -1,15 +1,20 @@
 {
-    "US": "ons",
-    "HOW_LIKELY_US": "Hoe waarschijnlijk is het dat je ons aanraadt aan vrienden of collega’s?",
-    "HOW_LIKELY": "Hoe waarschijnlijk is het dat je {{service_name}} aanraadt aan vrienden of collega’s?",
-    "UNLIKELY": "Zeer onwaarschijnlijk",
-    "LIKELY": "Zeer waarschijnlijk",
-    "FOLLOWUP": "Wat kunnen we verbeteren?",
-    "DISMISS": "Sluiten",
-    "SUBMIT": "Feedback opsturen",
-    "THANKS": "Bedankt voor je feedback!",
-    "FILLED": "Je hebt de vragenlijst al ingevuld.",
-    "SUBJECT": "Uw mening telt!",
-    "INTRO": "Beste,\n\nHet zou ons veel helpen mocht u tien seconden van uw tijd kunnen nemen om uw ervaring met ons te delen.",
-    "OUTRO": "Bedankt om de tijd te nemen ons te laten weten wat u denkt. We zullen deze informatie gebruiken om onze diensten te verbeteren!"
+  "US": "ons",
+  "HOW_LIKELY_US":
+    "Hoe waarschijnlijk is het dat je ons aanraadt aan vrienden of collega’s?",
+  "HOW_LIKELY":
+    "Hoe waarschijnlijk is het dat je {{service_name}} aanraadt aan vrienden of collega’s?",
+  "UNLIKELY": "Zeer onwaarschijnlijk",
+  "LIKELY": "Zeer waarschijnlijk",
+  "FOLLOWUP": "Wat kunnen we verbeteren?",
+  "DISMISS": "Sluiten",
+  "SUBMIT": "Feedback opsturen",
+  "THANKS": "Bedankt voor je feedback!",
+  "FILLED": "Je hebt de vragenlijst al ingevuld.",
+  "SUBJECT": "Uw mening telt!",
+  "INTRO":
+    "Beste,\n\nHet zou ons veel helpen mocht u tien seconden van uw tijd kunnen nemen om uw ervaring met ons te delen.",
+  "OUTRO":
+    "Bedankt om de tijd te nemen ons te laten weten wat u denkt. We zullen deze informatie gebruiken om onze diensten te verbeteren!",
+  "CONTINUE": "Volgende"
 }

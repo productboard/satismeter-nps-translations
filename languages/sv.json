@@ -1,15 +1,20 @@
 {
-    "US": "oss",
-    "HOW_LIKELY_US": "Hur troligt är det att du skulle rekommendera oss till dina vänner och kollegor?",
-    "HOW_LIKELY": "Hur troligt är det att du skulle rekommendera {{service_name}} till dina vänner och kollegor?",
-    "UNLIKELY": "Inte alls troligt",
-    "LIKELY": "Högst troligt",
-    "FOLLOWUP": "Hur kan vi förbättra oss?",
-    "DISMISS": "Stäng",
-    "SUBMIT": "Skicka feedback",
-    "THANKS": "Tack för din feedback!",
-    "FILLED": "Du har redan fyllt i enkäten.",
-    "SUBJECT": "Din åsikt spelar roll!",
-    "INTRO": "Hallå där,\n\ndet skulle verkligen hjälpa oss om du kunde ta 10 sekunder av din tid för att betygsätta din erfarenhet hos oss.",
-    "OUTRO": "Thank you for taking the time to let us know what you think. We will use this information to help improve our services!"
+  "US": "oss",
+  "HOW_LIKELY_US":
+    "Hur troligt är det att du skulle rekommendera oss till dina vänner och kollegor?",
+  "HOW_LIKELY":
+    "Hur troligt är det att du skulle rekommendera {{service_name}} till dina vänner och kollegor?",
+  "UNLIKELY": "Inte alls troligt",
+  "LIKELY": "Högst troligt",
+  "FOLLOWUP": "Hur kan vi förbättra oss?",
+  "DISMISS": "Stäng",
+  "SUBMIT": "Skicka feedback",
+  "THANKS": "Tack för din feedback!",
+  "FILLED": "Du har redan fyllt i enkäten.",
+  "SUBJECT": "Din åsikt spelar roll!",
+  "INTRO":
+    "Hallå där,\n\ndet skulle verkligen hjälpa oss om du kunde ta 10 sekunder av din tid för att betygsätta din erfarenhet hos oss.",
+  "OUTRO":
+    "Thank you for taking the time to let us know what you think. We will use this information to help improve our services!",
+  "CONTINUE": "Nästa"
 }

@@ -1,15 +1,20 @@
 {
-    "US": "nos",
-    "HOW_LIKELY_US": "Qual é a probabilidade de você nos recomendar a seus amigos e colegas?",
-    "HOW_LIKELY": "Qual é a probabilidade de você recomendar {{service_name}} a seus amigos e colegas?",
-    "UNLIKELY": "Nem um pouco provável",
-    "LIKELY": "Extremamente provável",
-    "FOLLOWUP": "O que poderíamos fazer para melhorar?",
-    "DISMISS": "Ignorar",
-    "SUBMIT": "Enviar feedback",
-    "THANKS": "Obrigado pelo seu feedback!",
-    "FILLED": "Você já completou a pesquisa.",
-    "SUBJECT": "Sua opinião é importante!",
-    "INTRO": "Olá,\n\nVocê nos ajudaria muito se tirasse 10 segundos do seu tempo para avaliar sua experiência com a gente.",
-    "OUTRO": "Obrigado por nos deixar saber o que você pensa. Usaremos esta informação para ajudar a melhorar nossos serviços!"
+  "US": "nos",
+  "HOW_LIKELY_US":
+    "Qual é a probabilidade de você nos recomendar a seus amigos e colegas?",
+  "HOW_LIKELY":
+    "Qual é a probabilidade de você recomendar {{service_name}} a seus amigos e colegas?",
+  "UNLIKELY": "Nem um pouco provável",
+  "LIKELY": "Extremamente provável",
+  "FOLLOWUP": "O que poderíamos fazer para melhorar?",
+  "DISMISS": "Ignorar",
+  "SUBMIT": "Enviar feedback",
+  "THANKS": "Obrigado pelo seu feedback!",
+  "FILLED": "Você já completou a pesquisa.",
+  "SUBJECT": "Sua opinião é importante!",
+  "INTRO":
+    "Olá,\n\nVocê nos ajudaria muito se tirasse 10 segundos do seu tempo para avaliar sua experiência com a gente.",
+  "OUTRO":
+    "Obrigado por nos deixar saber o que você pensa. Usaremos esta informação para ajudar a melhorar nossos serviços!",
+  "CONTINUE": "Próximo"
 }

@@ -1,15 +1,20 @@
 {
-    "US": "uns",
-    "HOW_LIKELY_US": "Wie wahrscheinlich ist es, dass Sie uns einem Freund oder Kollegen weiterempfehlen?",
-    "HOW_LIKELY": "Wie wahrscheinlich ist es, dass Sie {{service_name}} einem Freund oder Kollegen weiterempfehlen?",
-    "UNLIKELY": "Gar nicht wahrscheinlich",
-    "LIKELY": "Sehr wahrscheinlich",
-    "FOLLOWUP": "Was können wir tun, um uns zu verbessern?",
-    "DISMISS": "Ablehnen",
-    "SUBMIT": "Feedback schicken",
-    "THANKS": "Danke für Ihr Feedback!",
-    "FILLED": "Sie haben die Umfrage bereits ausgefüllt.",
-    "SUBJECT": "Ihre Meinung zählt!",
-    "INTRO": "Hallo zusammen,\n\nEs würde uns wirklich sehr weiterhelfen, wenn Sie sich 10 Sekunden Zeit nehmen könnten, um Ihre Erfahrungen mit uns zu bewerten.",
-    "OUTRO": "Vielen Dank, dass Sie sich die Zeit genommen haben, uns zu bewerten. Wir werden diese Informationen verwenden, um unsere Dienste zu verbessern!"
+  "US": "uns",
+  "HOW_LIKELY_US":
+    "Wie wahrscheinlich ist es, dass Sie uns einem Freund oder Kollegen weiterempfehlen?",
+  "HOW_LIKELY":
+    "Wie wahrscheinlich ist es, dass Sie {{service_name}} einem Freund oder Kollegen weiterempfehlen?",
+  "UNLIKELY": "Gar nicht wahrscheinlich",
+  "LIKELY": "Sehr wahrscheinlich",
+  "FOLLOWUP": "Was können wir tun, um uns zu verbessern?",
+  "DISMISS": "Ablehnen",
+  "SUBMIT": "Feedback schicken",
+  "THANKS": "Danke für Ihr Feedback!",
+  "FILLED": "Sie haben die Umfrage bereits ausgefüllt.",
+  "SUBJECT": "Ihre Meinung zählt!",
+  "INTRO":
+    "Hallo zusammen,\n\nEs würde uns wirklich sehr weiterhelfen, wenn Sie sich 10 Sekunden Zeit nehmen könnten, um Ihre Erfahrungen mit uns zu bewerten.",
+  "OUTRO":
+    "Vielen Dank, dass Sie sich die Zeit genommen haben, uns zu bewerten. Wir werden diese Informationen verwenden, um unsere Dienste zu verbessern!",
+  "CONTINUE": "Weiter"
 }

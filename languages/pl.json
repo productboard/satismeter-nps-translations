@@ -1,15 +1,20 @@
 {
-    "US": "nas",
-    "HOW_LIKELY_US": "Z jakim prawdopodobieństwem polecisz nas przyjaciołom lub znajomym?",
-    "HOW_LIKELY": "Z jakim prawdopodobieństwem polecisz {{service_name}} przyjaciołom lub znajomym?",
-    "UNLIKELY": "Niemożliwe",
-    "LIKELY": "Bardzo prawdopodobne",
-    "FOLLOWUP": "Co możemy zrobić, aby się udoskonalić?",
-    "DISMISS": "Wyjdź",
-    "SUBMIT": "Prześlij opinię",
-    "THANKS": "Dziękujemy za wyrażenie opinii!",
-    "FILLED": "Już wypełniłeś/-aś tę ankietę.",
-    "SUBJECT": "Twoja opinia ma znaczenie!",
-    "INTRO": "Witaj,\n\nbylibyśmy bardzo wdzięczni, gdyby udało Ci się poświęcić 10 sekund na wystawienie nam oceny.",
-    "OUTRO": "Dziękujemy za poświęcony czas i Twoją opinię. Wykorzystamy te informacje do ulepszenia naszych usług!"
+  "US": "nas",
+  "HOW_LIKELY_US":
+    "Z jakim prawdopodobieństwem polecisz nas przyjaciołom lub znajomym?",
+  "HOW_LIKELY":
+    "Z jakim prawdopodobieństwem polecisz {{service_name}} przyjaciołom lub znajomym?",
+  "UNLIKELY": "Niemożliwe",
+  "LIKELY": "Bardzo prawdopodobne",
+  "FOLLOWUP": "Co możemy zrobić, aby się udoskonalić?",
+  "DISMISS": "Wyjdź",
+  "SUBMIT": "Prześlij opinię",
+  "THANKS": "Dziękujemy za wyrażenie opinii!",
+  "FILLED": "Już wypełniłeś/-aś tę ankietę.",
+  "SUBJECT": "Twoja opinia ma znaczenie!",
+  "INTRO":
+    "Witaj,\n\nbylibyśmy bardzo wdzięczni, gdyby udało Ci się poświęcić 10 sekund na wystawienie nam oceny.",
+  "OUTRO":
+    "Dziękujemy za poświęcony czas i Twoją opinię. Wykorzystamy te informacje do ulepszenia naszych usług!",
+  "CONTINUE": "Dalej"
 }

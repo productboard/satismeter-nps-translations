@@ -1,14 +1,19 @@
 {
-    "HOW_LIKELY_US": "Hvor sannsynlig er det at du kommer til å anbefale oss til dine venner og kolleger?",
-    "HOW_LIKELY": "Hvor sannsynlig er det at du kommer til å anbefale {{service_name}} til dine venner og kolleger?",
-    "UNLIKELY": "Ikke sannsynlig i det hele tatt",
-    "LIKELY": "Ekstremt sannsynlig",
-    "FOLLOWUP": "Hva kan vi gjøre for å forbedre oss?",
-    "DISMISS": "Lukk",
-    "SUBMIT": "Send tilbakemelding",
-    "THANKS": "Takk for tilbakemeldingen din!",
-    "FILLED": "Du har allerede svart på undersøkelsen.",
-    "SUBJECT": "Meningen din teller!",
-    "INTRO": "Heisann,\n\ndet ville virkelig hjulpet oss om du kunne brukt ti sekunder av tiden din til å vurdere din opplevelse med oss.",
-    "OUTRO": "Takk for at du tok deg tid til å fortelle oss hva du mener. Vi vil bruke denne informasjonen til å hjelpe med å forbedre tjenestene våre!"
+  "HOW_LIKELY_US":
+    "Hvor sannsynlig er det at du kommer til å anbefale oss til dine venner og kolleger?",
+  "HOW_LIKELY":
+    "Hvor sannsynlig er det at du kommer til å anbefale {{service_name}} til dine venner og kolleger?",
+  "UNLIKELY": "Ikke sannsynlig i det hele tatt",
+  "LIKELY": "Ekstremt sannsynlig",
+  "FOLLOWUP": "Hva kan vi gjøre for å forbedre oss?",
+  "DISMISS": "Lukk",
+  "SUBMIT": "Send tilbakemelding",
+  "THANKS": "Takk for tilbakemeldingen din!",
+  "FILLED": "Du har allerede svart på undersøkelsen.",
+  "SUBJECT": "Meningen din teller!",
+  "INTRO":
+    "Heisann,\n\ndet ville virkelig hjulpet oss om du kunne brukt ti sekunder av tiden din til å vurdere din opplevelse med oss.",
+  "OUTRO":
+    "Takk for at du tok deg tid til å fortelle oss hva du mener. Vi vil bruke denne informasjonen til å hjelpe med å forbedre tjenestene våre!",
+  "CONTINUE": "Neste"
 }

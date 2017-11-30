@@ -1,15 +1,20 @@
 {
-    "US": "os",
-    "HOW_LIKELY_US": "Hvor sandsynligt er det at du vil anbefale os til dine venner og kollegaer?",
-    "HOW_LIKELY": "Hvor sandsynligt er det at du vil anbefale {{service_name}} til dine venner og kollegaer?",
-    "UNLIKELY": "Usandsynligt",
-    "LIKELY": "Meget sandsynligt",
-    "FOLLOWUP": "Hvad kan vi gøre for at blive bedre?",
-    "DISMISS": "Luk",
-    "SUBMIT": "Send Feedback",
-    "THANKS": "Tak for din feedback!",
-    "FILLED": "Du har allerede udfyldt spørgeskemaet.",
-    "SUBJECT": "Din holdning er vigtig!",
-    "INTRO": "Hejsa,\n\nDet ville virkelig hjælpe os hvis du vil bruge 10 sekunder af din tid på at vurdere din oplevelse hos os.",
-    "OUTRO": "Tak for at du tager dig tid til at lade os høre hvad du synes. Vi vil bruge disse oplysninger til at forbedre vores services!"
+  "US": "os",
+  "HOW_LIKELY_US":
+    "Hvor sandsynligt er det at du vil anbefale os til dine venner og kollegaer?",
+  "HOW_LIKELY":
+    "Hvor sandsynligt er det at du vil anbefale {{service_name}} til dine venner og kollegaer?",
+  "UNLIKELY": "Usandsynligt",
+  "LIKELY": "Meget sandsynligt",
+  "FOLLOWUP": "Hvad kan vi gøre for at blive bedre?",
+  "DISMISS": "Luk",
+  "SUBMIT": "Send Feedback",
+  "THANKS": "Tak for din feedback!",
+  "FILLED": "Du har allerede udfyldt spørgeskemaet.",
+  "SUBJECT": "Din holdning er vigtig!",
+  "INTRO":
+    "Hejsa,\n\nDet ville virkelig hjælpe os hvis du vil bruge 10 sekunder af din tid på at vurdere din oplevelse hos os.",
+  "OUTRO":
+    "Tak for at du tager dig tid til at lade os høre hvad du synes. Vi vil bruge disse oplysninger til at forbedre vores services!",
+  "CONTINUE": "Næste"
 }

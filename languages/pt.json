@@ -1,15 +1,20 @@
 {
-    "US": "nos",
-    "HOW_LIKELY_US": "Qual é a probabilidade de nos recomendar aos seus amigos e colegas?",
-    "HOW_LIKELY": "Qual é a probabilidade de recomendar a {{service_name}} aos seus amigos e colegas?",
-    "UNLIKELY": "Nada provável",
-    "LIKELY": "Extremamente provável",
-    "FOLLOWUP": "O que é que poderíamos fazer para melhorar?",
-    "DISMISS": "Encerrar",
-    "SUBMIT": "Enviar a Opinião",
-    "THANKS": "Obrigado pela sua opinião!",
-    "FILLED": "Já preencheu este inquérito.",
-    "SUBJECT": "A sua opinião conta!",
-    "INTRO": "Olá,\n\nAgradecíamos imenso que dispensasse 10 segundos do seu tempo para avaliar a sua experiência connosco.",
-    "OUTRO": "Obrigado por ter dispensado algum do seu tempo para nos dar a conhecer o que pensa. Iremos utilizar esta informação para ajudar a melhorar os nossos serviços!"
+  "US": "nos",
+  "HOW_LIKELY_US":
+    "Qual é a probabilidade de nos recomendar aos seus amigos e colegas?",
+  "HOW_LIKELY":
+    "Qual é a probabilidade de recomendar a {{service_name}} aos seus amigos e colegas?",
+  "UNLIKELY": "Nada provável",
+  "LIKELY": "Extremamente provável",
+  "FOLLOWUP": "O que é que poderíamos fazer para melhorar?",
+  "DISMISS": "Encerrar",
+  "SUBMIT": "Enviar a Opinião",
+  "THANKS": "Obrigado pela sua opinião!",
+  "FILLED": "Já preencheu este inquérito.",
+  "SUBJECT": "A sua opinião conta!",
+  "INTRO":
+    "Olá,\n\nAgradecíamos imenso que dispensasse 10 segundos do seu tempo para avaliar a sua experiência connosco.",
+  "OUTRO":
+    "Obrigado por ter dispensado algum do seu tempo para nos dar a conhecer o que pensa. Iremos utilizar esta informação para ajudar a melhorar os nossos serviços!",
+  "CONTINUE": "Seguinte"
 }
