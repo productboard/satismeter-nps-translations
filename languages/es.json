@@ -3,11 +3,11 @@
   "HOW_LIKELY_US": "¿Usted nos recomendaría a sus amigos o colegas?",
   "HOW_LIKELY": "¿Usted recomendaría {{service_name}} a sus amigos o colegas?",
   "UNLIKELY": "No, para nada.",
-  "LIKELY": "Si, claro.",
+  "LIKELY": "Sí, claro.",
   "FOLLOWUP": "¿Qué podemos hacer para mejorar?",
   "DISMISS": "Descartar",
   "SUBMIT": "Enviar un comentario",
-  "THANKS": "¡Gracias por tus comentarios!",
+  "THANKS": "¡Gracias por sus comentarios!",
   "FILLED": "Ya ha respondido a la encuesta.",
   "SUBJECT": "¡Su opinión cuenta!",
   "INTRO":
