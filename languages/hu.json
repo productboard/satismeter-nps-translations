@@ -1,0 +1,19 @@
+{
+  "HOW_LIKELY_US":
+    "Mennyire valószínű, hogy ajánlaná bankunkat barátainak, kollégáinak?",
+  "HOW_LIKELY":
+    "Mennyire valószínű, hogy ajánlaná bankunk {{service_name}} szolgáltatását barátainak, kollégáinak?",
+  "UNLIKELY": "Egyáltalán nem valószínű",
+  "LIKELY": "Nagyon valószínű",
+  "FOLLOWUP": "Mit tehetünk, hogy fejlődhessünk?",
+  "DISMISS": "Bezár",
+  "SUBMIT": "Válasz elküldése",
+  "THANKS": "Köszönjük válaszát!",
+  "FILLED": "Ön már kitöltötte a felmérést.",
+  "SUBJECT": "Véleménye fontos számunkra!",
+  "INTRO":
+    "Üdvözöljük,\n\nnagy segítségünkre szolgálna, ha néhány szóban megosztaná velünk véleményét bankunkkal kapcsolatban.",
+  "OUTRO":
+    "Köszönjük, hogy időt szánt kérdéseink megválaszolására. Válaszait szolgáltatásaink fejlesztésére fogjuk felhasználni.",
+  "CONTINUE": "Következő"
+}
