@@ -1,0 +1,13 @@
+{
+  "HOW_LIKELY_US": "Suosittelisitko ***** työtovereillesi (tai tutuillesi)?",
+  "HOW_LIKELY": "Suosittelisitko {{service_name}} työtovereillesi (tai tutuillesi)?",
+  "UNLIKELY": "En varmasti suosittelisi",
+  "LIKELY": "Suosittelisin",
+  "FOLLOWUP": "Mitä voisimme tehdä kokemuksen parantamiseksi?",
+  "SUBMIT": "Lähetä palaute",
+  "THANKS": "Kiitos, että annoit palautetta!",
+  "SUBJECT": "Mielipiteelläsi on merkitystä!",
+  "INTRO": "Terve,\n\nMeitä auttaisi suuresti, jos voisit käyttää 10 sekuntia Meltwater-kokemuksen arviointiin.",
+  "OUTRO": "Kiitos, että kerroit mielipiteesi. Käytämme tätä tietoa palveluidemme parantamiseen!",
+  "CONTINUE": "Seuraava"
+}
