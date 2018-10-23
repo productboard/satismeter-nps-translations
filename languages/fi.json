@@ -1,6 +1,6 @@
 {
-  "HOW_LIKELY_US": "Suosittelisitko ***** työtovereillesi (tai tutuillesi)?",
-  "HOW_LIKELY": "Suosittelisitko {{service_name}} työtovereillesi (tai tutuillesi)?",
+  "HOW_LIKELY_US": "Kuinka todennäköisesti suosittelisit tätä tuotetta tai palvelua ystävällesi tai työkaverillesi?",
+  "HOW_LIKELY": "Kuinka todennäköisesti suosittelisit {{service_name}} ystävällesi tai työkaverillesi?",
   "UNLIKELY": "En varmasti suosittelisi",
   "LIKELY": "Suosittelisin",
   "FOLLOWUP": "Mitä voisimme tehdä kokemuksen parantamiseksi?",
