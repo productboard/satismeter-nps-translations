@@ -16,5 +16,7 @@
     "Witaj,\n\nbylibyśmy bardzo wdzięczni, gdyby udało Ci się poświęcić 10 sekund na wystawienie nam oceny.",
   "OUTRO":
     "Dziękujemy za poświęcony czas i Twoją opinię. Wykorzystamy te informacje do ulepszenia naszych usług!",
-  "CONTINUE": "Dalej"
+  "CONTINUE": "Dalej",
+  "AGREE": "Zgadzam się",
+  "DISAGREE": "Nie zgadzam się"
 }
