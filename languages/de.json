@@ -16,5 +16,7 @@
     "Hallo zusammen,\n\nEs würde uns wirklich sehr weiterhelfen, wenn Sie sich 10 Sekunden Zeit nehmen könnten, um Ihre Erfahrungen mit uns zu bewerten.",
   "OUTRO":
     "Vielen Dank, dass Sie sich die Zeit genommen haben, uns zu bewerten. Wir werden diese Informationen verwenden, um unsere Dienste zu verbessern!",
-  "CONTINUE": "Weiter"
+  "CONTINUE": "Weiter",
+  "AGREE": "Stimme zu",
+  "DISAGREE": "Stimme nicht zu"
 }

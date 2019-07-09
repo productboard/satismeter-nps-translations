@@ -16,5 +16,7 @@
     "Sveiki,\n\ngal galėtumėte mums padėti ir skyrę 10 sekundžių savo laiko įvertinti, kaip patiko naudotis mūsų paslaugomis.",
   "OUTRO":
     "Dėkojame, kad skyrėte laiko ir išsakėte mums savo nuomonę. Panaudosime šią informaciją mūsų paslaugų tobulinimui!",
-  "CONTINUE": "Pirmyn"
+  "CONTINUE": "Pirmyn",
+  "AGREE": "Sutinku",
+  "DISAGREE": "Nesutinku"
 }

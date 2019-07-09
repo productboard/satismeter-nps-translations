@@ -15,5 +15,7 @@
     "Sveiki,\n\nMums tas ļoti palīdzētu, ja Tu atvēlētu 10 sekundes no sava laika un novērtētu kopā ar mums gūto pieredzi.",
   "OUTRO":
     "Paldies, ka veltīji laiku un ļāvi mums uzzināt savu viedokli. Mēs izmantosim šo informāciju, lai palīdzētu uzlabot mūsu pakalpojumus!",
-  "CONTINUE": "Nākamais"
+  "CONTINUE": "Nākamais",
+  "AGREE": "Piekrītu",
+  "DISAGREE": "Nepiekrītu"
 }
