@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bulk-require": "^0.2.1"
+    "bulk-require": "^1"
   },
   "devDependencies": {
-    "chai": "^2.0.0",
-    "mocha": "^2.1.0"
+    "chai": "^4",
+    "mocha": "^6"
   }
 }
