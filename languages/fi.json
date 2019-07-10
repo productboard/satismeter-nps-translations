@@ -9,5 +9,7 @@
   "SUBJECT": "Mielipiteelläsi on merkitystä!",
   "INTRO": "Terve,\n\nMeitä auttaisi suuresti, jos voisit käyttää 10 sekuntia Meltwater-kokemuksen arviointiin.",
   "OUTRO": "Kiitos, että kerroit mielipiteesi. Käytämme tätä tietoa palveluidemme parantamiseen!",
-  "CONTINUE": "Seuraava"
+  "CONTINUE": "Seuraava",
+  "AGREE": "Samaa mieltä",
+  "DISAGREE": "Eri mieltä"
 }

@@ -15,5 +15,7 @@
     "Üdvözöljük,\n\nnagy segítségünkre szolgálna, ha néhány szóban megosztaná velünk véleményét bankunkkal kapcsolatban.",
   "OUTRO":
     "Köszönjük, hogy időt szánt kérdéseink megválaszolására. Válaszait szolgáltatásaink fejlesztésére fogjuk felhasználni.",
-  "CONTINUE": "Következő"
+  "CONTINUE": "Következő",
+  "AGREE": "Egyetértek",
+  "DISAGREE": "Nem értek egyet"
 }

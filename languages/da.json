@@ -16,5 +16,7 @@
     "Hejsa,\n\nDet ville virkelig hjælpe os hvis du vil bruge 10 sekunder af din tid på at vurdere din oplevelse hos os.",
   "OUTRO":
     "Tak for at du tager dig tid til at lade os høre hvad du synes. Vi vil bruge disse oplysninger til at forbedre vores services!",
-  "CONTINUE": "Næste"
+  "CONTINUE": "Næste",
+  "AGREE": "Enig",
+  "DISAGREE": "Uenig"
 }
