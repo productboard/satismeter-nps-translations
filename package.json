@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bulk-require": "^1"
+    "bulk-require": "^1",
+    "semantic-release": "^17.0.8"
   },
   "devDependencies": {
     "chai": "^4",
