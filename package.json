@@ -1,7 +1,7 @@
 {
   "name": "@satismeter/nps-translations",
-  "version": "0.0.0-development",
-  "description": "",
+  "version": "2.8.0",
+  "description": "NPS translations",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
