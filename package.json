@@ -1,6 +1,6 @@
 {
   "name": "@satismeter/nps-translations",
-  "version": "2.9.0",
+  "version": "0.0.0-development",
   "description": "NPS translations",
   "main": "index.js",
   "scripts": {
