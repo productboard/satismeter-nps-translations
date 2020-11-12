@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bulk-require": "^1",
-    "semantic-release": "^17.0.8"
+    "bulk-require": "^1"
   },
   "devDependencies": {
     "chai": "^4",
-    "mocha": "^6"
+    "mocha": "^6",
+    "semantic-release": "^17.0.8"    
   }
 }
