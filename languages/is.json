@@ -1,0 +1,22 @@
+{
+    "US": "",
+    "HOW_LIKELY_US":
+      "Hversu líklegt er að þú mælir með okkur við vini eða vandamenn?",
+    "HOW_LIKELY": "",
+    "UNLIKELY": "Ólíklegt",
+    "LIKELY": "Mjög líklegt",
+    "FOLLOWUP": "Hvar sérð þú svigrúm til bætinga?",
+    "DISMISS": "",
+    "SUBMIT": "Svara",
+    "THANKS": "Takk fyrir svörin, við kunnum að meta þau!",
+    "FILLED": "",
+    "SUBJECT": "Þín skoðun skiptir máli!",
+    "INTRO":
+      "Hæ þú,\n\nþað myndi hjálpa okkur mikið að þjónusta þig sem best ef þú gæfir þér 10 sekúndur til að gefa okkur einkunn.",
+    "OUTRO":
+      "Takk kærlega fyrir tímann, þín skoðun skiptir máli því við viljum sífellt bæta okkar þjónustu",
+    "CONTINUE": "Næst",
+    "AGREE": "Sammála",
+    "DISAGREE": "Ósammála"
+  }
+  
