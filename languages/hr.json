@@ -1,0 +1,21 @@
+{
+    "US": "",
+    "HOW_LIKELY_US": "Koliko vjerojatno bi nas preporučili prijateljima i kolegama?",
+    "HOW_LIKELY": "",
+    "UNLIKELY": "Gotovo sigurno ne",
+    "LIKELY": "Vrlo vjerojatno",
+    "FOLLOWUP": "Gdje se možemo poboljšati?",
+    "DISMISS": "",
+    "SUBMIT": "Predaj povratnu informaciju",
+    "THANKS": "Hvala vam na povratnim informacijama!",
+    "FILLED": "",
+    "SUBJECT": "Vaše mišljenje nam je bitno!",
+    "INTRO":
+      "Hej, stvarno bi nam pomoglo kada bi izdvojili 10 sekundi da ocjenite Vaše iskustvo s nama.",
+    "OUTRO":
+      "Hvala Vam na predaji Vašeg mišljenja. Koristimo ove informacije kako bi poboljšati naše usluge.",
+    "CONTINUE": "Sljedeći",
+    "AGREE": "Slažem se",
+    "DISAGREE": "Ne slažem se"
+  }
+  
